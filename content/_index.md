@@ -1,17 +1,20 @@
 ---
-title: My Site
+title: Welcome!
 toc: false
 ---
+<br>
+Hi, I'm Kajus Zakaras and this site contains all things me. Don't hesitate to reach out if you have any questions or just want to say hi.
 
-This is the landing page.
+## ~
 
-## Explore
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+{{< cards cols="1">}}
+  {{< card link="about" icon="user" subtitle="Yes. That's me giving a very serious speech." title="/about" image="me.jpg">}}
 {{< /cards >}}
 
-## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+{{< cards cols="2">}}
+  {{< card link="projects" title="/projects" icon="terminal" subtitle="What I've been working on.">}}
+  {{< card link="contacts" title="/contacts" icon="chat" subtitle="Where to find me on the internet.">}}
+{{< /cards >}}
+
