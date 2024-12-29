@@ -38,7 +38,7 @@ menu:
     #    - name: GitHub
     #      weight: 5
     #      url: "https://github.com/imfing/hextra-starter-template"
-    #      params:
+        #      params:
     #        icon: github
     #    - name: Twitter
     #      weight: 6
@@ -47,6 +47,8 @@ menu:
     #        icon: x-twitter
 
 params:
+  description: "Personal website of Kajus Zakaras."
+
   navbar:
     displayTitle: true
     displayLogo: false
