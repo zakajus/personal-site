@@ -3,6 +3,7 @@ title: Dotfiles
 type: docs
 prev: /
 next: projects/personal-site
+tags: ["kajus", "zakaras", "zakajus", "personal", "website", "portfolio", "project"]
 ---
 
 I find it rewarding to dedicate a portion of my time to configure my development tools to better suit my needs. All of my <code>~/.config</code>, <code>.bashrc</code>, and other similar files are available on [Github](https://github.com/zakajus/dotfiles). Feel free to use them as you see fit.

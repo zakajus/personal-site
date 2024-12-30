@@ -1,6 +1,7 @@
 ---
-title: Welcome!
+title: Home
 toc: false
+tags: ["kajus", "zakaras", "zakajus", "personal", "website", "portfolio", "home"]
 ---
 <br>
 Hi, I'm Kajus Zakaras and this site contains all things me. Don't hesitate to reach out if you have any questions or just want to say hi.

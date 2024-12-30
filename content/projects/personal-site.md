@@ -2,6 +2,7 @@
 title: Personal site
 type: docs
 prev: /dotfiles
+tags: ["kajus", "zakaras", "zakajus", "personal", "website", "portfolio", "project"]
 ---
 
 The source for this site is available on [Github](https://github.com/zakajus/personal-site). I threw it together in one evening using [Hugo](https://gohugo.io/) and the [Hextra](https://imfing.github.io/hextra/) theme, but it's fast and low maintanence.

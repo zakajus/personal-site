@@ -2,6 +2,7 @@
 title: About
 type: about
 toc: false
+tags: ["kajus", "zakaras", "zakajus", "personal", "website", "about", "portfolio"]
 ---
 
 I am currently studying computer science at Vilnius University. 

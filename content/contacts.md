@@ -2,6 +2,7 @@
 title: Contacts
 type: contacts
 toc: false
+tags: ["kajus", "zakaras", "zakajus", "personal", "website", "contacts", "socials"]
 ---
 
 The fastest way to reach me is to add me on Discord: <code><span style="padding:5px;color:darkorchid; font-weight:bold">@zakajus</span></code>

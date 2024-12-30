@@ -48,6 +48,7 @@ menu:
 
 params:
   description: "Personal website of Kajus Zakaras."
+  tags: ["kajus", "zakaras", "zakajus", "personal", "website", "portfolio", "blog"]
 
   navbar:
     displayTitle: true
